@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Zakia-cse
+ * @author Hasmot Ali Hasu
  */
 public class InsertForm extends javax.swing.JFrame {
 
