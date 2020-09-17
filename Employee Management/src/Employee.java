@@ -6,7 +6,7 @@
 
 /**
  *
- * @author DOLPHIN
+ * @author Hasmot Ali Hasu
  */
 public abstract class Employee {
     private String name;
