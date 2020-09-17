@@ -6,7 +6,7 @@
 
 /**
  *
- * @author DOLPHIN
+ * @author Hasmot Ali Hasu
  */
 public class FullTimeEmployee extends Employee{
     private double salary;
