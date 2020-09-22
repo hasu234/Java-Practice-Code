@@ -14,8 +14,8 @@ public class Customer {
      }
     public static void main(String[] args) {
         Customer c1,c2;
-        c1=new Customer("121-15-10","Ahmed","Dhanmondi");
-        c2=new Customer("121-15-11","Bobi","Mirpur");
+        c1=new Customer("111111","Shuvo","Dhanmondi");
+        c2=new Customer("122222","Bisnu","Kalabagan");
         
         c1.display();
         c2.display();
