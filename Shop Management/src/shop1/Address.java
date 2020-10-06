@@ -7,6 +7,7 @@ public class Address {
         this.road = r;
         this.district = d;
         this.city = c;
+        
     }
     public void display(){
         System.out.println("Your address:");
