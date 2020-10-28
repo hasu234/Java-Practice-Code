@@ -2,8 +2,6 @@
 package largestnumberofanarray;
 
 import java.util.Scanner;
-
-
 public class LargestNumberOfAnArray {
 
 static Scanner sc=new Scanner(System.in);
