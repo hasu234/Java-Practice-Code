@@ -23,6 +23,5 @@ public class JavaArrayDemo {
       System.out.println("Sorted Array: ");
           for(i=0;i<a.length;i++)
                System.out.println(a[i]);
-          }
-              
+          }   
     }
