@@ -8,7 +8,7 @@ public class Increasing {
 
 static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) {
-        System.out.println("Enter Number Of Element: ");
+        System.out.println("Enter Number of Element: ");
         int n;
         n=sc.nextInt();
         System.out.println("Enter The Elements: ");
