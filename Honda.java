@@ -15,7 +15,6 @@ public class Honda extends Vehicle implements Drive,Race{
     
     @Override
     public void display() {
-        //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
         System.out.println("Model:"+super.model);
         System.out.println("Weight: "+super.weight);
          System.out.println("no of of wheel:"+this.noWheel);
