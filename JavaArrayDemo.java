@@ -1,5 +1,3 @@
-package LabTwo;
-
 import java.util.Scanner;
 
 public class JavaArrayDemo {
