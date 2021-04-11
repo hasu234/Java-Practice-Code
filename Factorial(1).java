@@ -3,7 +3,7 @@ package factorial;
 import java.util.Scanner;
 
 
-public class Factorial {
+public class Factor {
     static Scanner sc=new Scanner(System.in);
 
     public static void main(String[] args) {
